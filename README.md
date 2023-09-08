@@ -31,7 +31,7 @@ For the prediction task, we employed deep neural networks. Here are the key step
 
 - **Model Architecture:** We designed a feedforward deep neural network with four layers to capture complex relationships within the data.
 
-- **Optimizer Comparison:** We compared the performance of two popular optimizers, ADAM and RMSProp, to fine-tune our model. Remarkably, both optimizers yielded an impressive R-squared (R2) score of 0.99.
+- **Optimizer Comparison:** We compared the performance of two popular optimizers, ADAM and RMSProp, to fine-tune our model. Remarkably, both optimizers yielded an impressive R-squared (R2) score of 0.98.
 
 - **Feature Impact Analysis:** We conducted an in-depth analysis to understand which features contributed most significantly to achieving the high R2 score. This knowledge can provide valuable insights into the factors influencing thermal conductivity in oxides.
 
