@@ -5,7 +5,7 @@ This repository is part of an introductory class on Material Informatics. Please
 
 ## Overview
 
-This project focuses on predicting the thermal conductivity of oxide materials, an important property for various applications in material science. We utilized a combination of data collection, filtration, and deep neural networks to achieve accurate results.
+This project focuses on predicting the thermal conductivity of oxide materials, an important property for various applications in material science. We utilized a combination of data collection, filtration, and deep neural networks to achieve the results.
 
 ## Project Steps
 
